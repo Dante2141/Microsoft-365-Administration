@@ -47,3 +47,12 @@ By clicking "Deleted users", select the checkbox to the user's name you would li
 ![image](https://github.com/user-attachments/assets/f56f1f62-8280-4e2e-a4eb-6531c39c23c5)
 
 
+
+## Exchange Administration
+Exchange Online is the email service in Microsoft 365, handling emails, calendars, and contacts. Administrators are responsible for tasks like setting up mailboxes, managing email flow, and troubleshooting issues. By configuring shared mailboxes and using tools like Message Trace to track emails.
+
+The following is me performing common Exchange administration task: 
+
+
+
+
