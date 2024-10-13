@@ -19,6 +19,16 @@ By clicking "Add  User" and filling in the required details you can create a new
 
 ![adduser2](https://github.com/user-attachments/assets/b0090e15-c342-45a2-a9f2-60e546cf2ed7)
 
+  ## Adding Groups and Members 
+Groups in Microsoft 365 facilitate easier management of users by bundling multiple accounts with similar needs into a single unit. 
+
+Click on "Teams & Group". Navigate to Active teams & groups. Then choose what group you would like to add. (My example Microsoft 365 group).
+
+![creategroup](https://github.com/user-attachments/assets/9d867495-8f00-4833-a503-6bfc9f1048b9)
+
+
+  
+
 
 
 
