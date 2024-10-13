@@ -12,7 +12,7 @@ Many administration tasks can be done from the user tab. I showcase my proficien
 
 The following is me performing common account administration: 
 
- ##Adding Users: 
+ ## Adding Users: 
 By clicking "Add  User" and filling in the required details you can create a new User 
 
 ![adduser1](https://github.com/user-attachments/assets/7789fc9e-2ba5-48eb-9778-dc258e0aef83)
