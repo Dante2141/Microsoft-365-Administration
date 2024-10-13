@@ -53,6 +53,19 @@ Exchange Online is the email service in Microsoft 365, handling emails, calendar
 
 The following is me performing common Exchange administration task: 
 
+  ## Creating Shared Mailboxes
+Shared mailboxes allow multiple users to monitor and respond to communications from a single email account.
+
+In Exchange admin center, click on "Recipients", "Mailboxes" then "Add a shared mailbox". Continue to add the details of the shared mailbox and then create.
+
+![image](https://github.com/user-attachments/assets/e1220f0f-9064-4228-aa89-6fb577e1b59e)
+
+![image](https://github.com/user-attachments/assets/832e67af-919b-42a7-a823-7998db575aa5)
+
+ 
+
+
+
 
 
 
