@@ -17,6 +17,7 @@ By clicking "Add  User" and filling in the required details you can create a new
 
 ![adduser1](https://github.com/user-attachments/assets/7789fc9e-2ba5-48eb-9778-dc258e0aef83)
 
+
 ![adduser2](https://github.com/user-attachments/assets/b0090e15-c342-45a2-a9f2-60e546cf2ed7)
 
   ## Adding Groups and Members 
@@ -25,6 +26,7 @@ Groups in Microsoft 365 facilitate easier management of users by bundling multip
 Click on "Teams & Group". Navigate to Active teams & groups. Then choose what group you would like to add. Enter the details and then create a group. (My example i a  Microsoft 365 group).
 
 ![image](https://github.com/user-attachments/assets/29358b65-4093-4dfb-aa23-21be33589e1c)
+
 
 
 ![creategroup](https://github.com/user-attachments/assets/9d867495-8f00-4833-a503-6bfc9f1048b9)
