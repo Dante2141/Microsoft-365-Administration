@@ -2,11 +2,13 @@
 
 
 ## Introduction
-Microsoft's flagship cloud platform provides IT administrators with a seamless way to manage users, resources, and services within a virtualized environment. In this lab project, I will demonstrate my proficiency in using Microsoft 365.
+Microsoft's flagship cloud platform provides IT administrators a seamless way to manage users, resources, and services within a virtualized environment. In this lab project, I will demonstrate my proficiency in using Microsoft 365.
 
 
 ## Basic Account Administration 
-Managing user accounts is one of the core responsibilities in Windows 365 administration. Adding users involves integrating their credentials into the system through the Microsoft 365 Users Tab. 
+Managing user accounts is one of the core responsibilities in Windows 365 administration. The "Users" tab is where administrators manage user accounts within the organization. It allows administrators to create, modify, and delete user profiles. Also, Administrators can assign licenses, manage roles and permissions and monitor user activity. 
+
+Many administration tasks can be done from the user tab. I showcase my proficiency with the most common task.
 
 The following is me performing common account administration: 
 
