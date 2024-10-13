@@ -37,5 +37,13 @@ Click on "Teams & Group". Navigate to "Active teams & groups". Then choose what 
 
 
 
-## What is Vulnerability Assessment?
-A vulnerability assessment is a methodical process designed to identify, evaluate, and prioritize vulnerabilities within a given system. Unlike vulnerability management, which is continuous, a vulnerability assessment is usually conducted as a one-time project with a well-defined start and end date. During the assessment, security professionals use specialized tools and techniques to uncover weaknesses such as software bugs, configuration errors, or outdated patches that could serve as gateways for potential attackers.
+## Restoring a Deleted User
+Microsoft 365 offers a recovery window where deleted users can be restored without loss of data or access. By swiftly restoring deleted accounts, administrators ensure continuity of service, preventing unnecessary disruptions to business operations.
+
+By clicking "Deleted users", select the checkbox to the user's name you would like to restore (example: Homer Simpson) and then click Restore user. Then proceed to resign any licenses and roles if needed.
+
+![image](https://github.com/user-attachments/assets/92458005-4bb4-49f7-8952-19e614dec5eb)
+
+![image](https://github.com/user-attachments/assets/f56f1f62-8280-4e2e-a4eb-6531c39c23c5)
+
+
