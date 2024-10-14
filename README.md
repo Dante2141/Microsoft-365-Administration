@@ -62,6 +62,19 @@ In Exchange admin center, click on "Recipients", "Mailboxes" then "Add a shared 
 
 ![image](https://github.com/user-attachments/assets/832e67af-919b-42a7-a823-7998db575aa5)
 
+  ## Troubleshooting with Message Trace
+Message Trace is an invaluable tool within Exchange for tracking emails that flow through the organization. Whether diagnosing delivery issues or investigating potential security breaches, Message Trace allows administrators to delve into detailed logs, tracking emails from origin to destination. This troubleshooting tool aids in pinpointing delays, identifying spam filters or addressing potential unauthorized access to communications.
+
+In Exchange admin center under "Mail flow" tab click  "Message trace", then click "Start a trace" and enter New message trace details.
+
+![image](https://github.com/user-attachments/assets/3d54e569-f95e-4115-9937-7dee0baa2729)
+
+![image](https://github.com/user-attachments/assets/5b017c65-b2a1-4d04-a3d2-8e0e8a628341)
+
+
+
+
+
  
 
 
