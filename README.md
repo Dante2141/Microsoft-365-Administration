@@ -29,7 +29,8 @@ Click on "Teams & Group". Navigate to "Active teams & groups". Then choose what 
 
 
 
-![creategroup](https://github.com/user-attachments/assets/9d867495-8f00-4833-a503-6bfc9f1048b9)
+![image](https://github.com/user-attachments/assets/63c2c14e-1712-405c-a52c-3b179520eace)
+
 
 
   
