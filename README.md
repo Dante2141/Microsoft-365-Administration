@@ -74,6 +74,11 @@ In Exchange admin center under "Mail flow" tab click  "Message trace", then clic
 
 
 
+## Conclusion
+Microsoft 365 administration involves managing users, emails, files, and resources to keep everything running smoothly. By handling tasks like adding users, restoring deleted files, and setting up shared mailboxes, IT administrators can ensure a secure and efficient system. In this lab, I only scratched the surface of what you can do as an administrator of 365. There is so much more to this platform. Nonetheless,  I hope I was able to showcase my abilities to manage an organization through users through Microsoft 365/ 
+
+
+
 
 
  
